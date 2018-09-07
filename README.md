@@ -32,9 +32,4 @@ Native desktop Redmine client written in Angular.js with Electron
 
 See this [colourlovers](http://www.colourlovers.com/palette/2077991/priority_authority) palette.
 
-## License
-The MIT License (MIT)
 
-Copyright (c) 2015 Ákos Resch
-
-See [LICENSE](https://github.com/ocReaper/redmine-desktop/blob/master/LICENSE.md).
