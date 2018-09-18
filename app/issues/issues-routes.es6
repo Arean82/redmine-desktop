@@ -16,7 +16,7 @@
         resolve: {
           issues: function (Issue, IssueFilter, _) {
             let trueParams = _.reduce(IssueFilter.getFilters(), function (memo, current) {
-              return _.extend(memo, current)
+              return _.extend(memo, current);
             }, {});
 
             return Issue

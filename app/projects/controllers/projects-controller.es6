@@ -19,7 +19,7 @@
     filterIssuesByProjectId(id) {
       let vm = this;
 
-      vm.IssueFilter.addFilter({project_id: id});
+      vm.IssueFilter.addFilter({projectid: id});
       vm.$state.go('issues');
     }
   }
